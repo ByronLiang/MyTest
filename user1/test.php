@@ -1,3 +1,4 @@
 <?php
 
-echo "Ji";
+echo "Hello world";
+$a = ['apple', 'banana'];
