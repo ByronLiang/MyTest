@@ -1,3 +1,3 @@
 <?php
-echo "Ji";
-$a = "we are a good man!";
+echo "Hello world";
+$a = ['apple', 'banana'];
