@@ -22,4 +22,9 @@ class people
 	{
 		return $this->name;
 	}
+
+	public function getAge()
+	{
+		return $this->age = 29;
+	}
 }
