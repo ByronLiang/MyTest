@@ -13,3 +13,13 @@ for ($c = 0; $c < 4; $c++) {
 function add($a, $b) {
   echo "$a + $b"; 
 }
+
+class people
+{
+	private $name;
+
+	public function getName()
+	{
+		return $this->name;
+	}
+}
