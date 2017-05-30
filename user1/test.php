@@ -33,4 +33,9 @@ class people
 	{
 		return $this->age = 29;
 	}
+
+	public static function setName($id)
+	{
+		return self::where('id', $id);
+	}
 }
